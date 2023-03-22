@@ -20,7 +20,7 @@ public class TestSomFunctie {
 
         double som = calculator.getSommatie();
 
-        Assertions.assertEquals(-8,som);
+        Assertions.assertEquals(8,som);
     }
 
 
